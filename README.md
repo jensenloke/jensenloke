@@ -1,6 +1,6 @@
 ### Hi there , I'm Jensen 👋
 
-I'm managing two software companies, and and identify as a Product Leader, from the ☀️🏖️of 🇸🇬. I am currently working @ [Success IT](https://www.successit.com.sg) & [One Logis](https://www.onelogisasia.com) rocket-ships that are innovating at the enterprise resource planning software development space. Please reach out to me for chat on anything product related, SAAS, or more about our Cloud-native stack!
+I'm managing two software companies, and and identify as a Product Leader, with 10+ years of product management experience, from the ☀️🏖️of 🇸🇬. I am currently working @ [Success IT](https://www.successit.com.sg) & [One Logis](https://www.onelogisasia.com) rocket-ships that are innovating at the enterprise resource planning software development space. Please reach out to me for chat on anything product related, SAAS, or more about our Cloud-native stack!
 
 ### :notebook: I'm learning
 - How to build SAAS products
@@ -30,7 +30,7 @@ I'm managing two software companies, and and identify as a Product Leader, from 
 * Financial Modeling - by AMT
 
 ### My Technical Blog Posts
-* [Product Managers vs Product Owners in Digital Transformationy](https://medium.com/swlh/product-managers-vs-product-owners-in-digital-transformation-e8514d303ead)
+* [Product Managers vs Product Owners in Digital Transformation](https://medium.com/swlh/product-managers-vs-product-owners-in-digital-transformation-e8514d303ead)
 * [Mastering the Art of Cloud Spending: How to Save Big Without Sacrificing Performance](https://medium.com/@jensenloke/mastering-the-art-of-cloud-spending-how-to-save-big-without-sacrificing-performance-e07f3f21d3cd)
 * [Agile in Digital Transformation](https://medium.com/swlh/agile-in-digital-transformation-8cc17264cb91))
 
