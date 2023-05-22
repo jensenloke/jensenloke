@@ -24,10 +24,10 @@ I'm managing two software companies, and and identify as a Product Leader, from 
 * Ant Group
 
 ### :receipt: Certifications
-* Certified Kubernetes Application Developer
-* Certified Kubernetes Administrator
-* AWS Solution Architect Professional
-* AWS Security Specialist
+* SC-900: Microsoft Security Fundamentals Bootcamp
+* Foundations in AI - by AI Singapore
+* Python for Analytics - by Coursera, eDx, datacamp
+* Financial Modeling - by AMT
 
 ### My Technical Blog Posts
 * [Product Managers vs Product Owners in Digital Transformationy](https://medium.com/swlh/product-managers-vs-product-owners-in-digital-transformation-e8514d303ead)
