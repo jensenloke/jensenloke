@@ -8,7 +8,7 @@ I'm managing two software companies, and and identify as a Product Leader, from 
 ### :incoming_envelope: Contact
 <p align="left">
 <a href="https://www.linkedin.com/in/jensenloke/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Linkedin" height="35" width="35" /></a> &nbsp;&nbsp;
-  <a href="mailto:robincher@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Gmail" height="35" width="35" /></a> &nbsp;&nbsp;
+  <a href="mailto:jensenkmloke@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Gmail" height="35" width="35" /></a> &nbsp;&nbsp;
 </p>
 
 ### :footprints: Things i think i'm good at ..
