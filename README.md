@@ -29,6 +29,10 @@ I'm managing two software companies, and and identify as a Product Leader, with 
 * Python for Analytics - by Coursera, eDx, datacamp
 * Financial Modeling - by AMT
 
+### AI coding resources
+* [Qwen in Claude Code, via ModelScope](https://github.com/jensenloke/claude-qwen-modelscope) — launcher, thinking adapter, Brave search, and browser setup guides for ABC #11.
+* [ABC #11 five-minute walkthrough](https://jensenloke.github.io/talks/abc11-claude-qwen/) — slides and registration QR.
+
 ### My Technical Blog Posts
 * [Product Managers vs Product Owners in Digital Transformation](https://medium.com/swlh/product-managers-vs-product-owners-in-digital-transformation-e8514d303ead)
 * [Mastering the Art of Cloud Spending: How to Save Big Without Sacrificing Performance](https://medium.com/@jensenloke/mastering-the-art-of-cloud-spending-how-to-save-big-without-sacrificing-performance-e07f3f21d3cd)
